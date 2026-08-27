@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Artificial Intelligence",
+        "category": "AI",
+        "description": "Learn the basics of Artificial Intelligence and its applications."
+    },
+    {
+        "id": 2,
+        "title": "Machine Learning Basics",
+        "category": "ML",
+        "description": "Understand supervised and unsupervised machine learning."
+    },
+    {
+        "id": 3,
+        "title": "React Components",
+        "category": "Web",
+        "description": "Learn how reusable components work in React."
+    },
+    {
+        "id": 4,
+        "title": "Python for Data Science",
+        "category": "Data Science",
+        "description": "Learn how Python is used for data analysis and visualization."
+    },
+    {
+        "id": 5,
+        "title": "Deep Learning Introduction",
+        "category": "AI",
+        "description": "Explore neural networks and deep learning concepts."
+    }
+]
